@@ -1,7 +1,7 @@
 # Fast Bayesian Estimation Using Location-type Variational Representations
 This is the official repository that hosts the code to the EUSIPCO 2025 paper
 "Fast Bayesian Estimation Using Location-type Variational Representations". 
-Preprint of the article is available in the repository root.
+Pdf of the article is available in the repository root.
 
 ![Convergence of the Type I and the proposed method on a toy 2d
 problem.](contour.png)
